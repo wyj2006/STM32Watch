@@ -1,0 +1,12 @@
+build
+mx.scratch
+!.settings
+
+.vscode
+cmake
+PCB/Watch_backup
+Drivers
+.mxproject
+CMakePresets.json
+startup_stm32f103xb.s
+STM32F103XX_FLASH.ld
